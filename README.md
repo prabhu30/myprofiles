@@ -8,4 +8,4 @@ Have a look :) <br><br>
 4. View my profile on [Educative](https://www.educative.io/profile/view/5638466612756480) :grin:	
 5. Checkout my activity on [Quora](https://www.quora.com/profile/Prabhu-Kalyan-8) :yum:	
 6. I shared something on [Medium](https://medium.com/@prabhukalyan) :stuck_out_tongue_winking_eye:	
-7. My profile on GitHub :sweat_smile:
+7. My profile on [GitHub](https://github.com/prabhu30) :sweat_smile:
