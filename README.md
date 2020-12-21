@@ -7,3 +7,4 @@ Have a look :) <br><br>
 3. Checkout my activity on [Quora](https://www.quora.com/profile/Prabhu-Kalyan-8) :)
 4. I shared something on [Medium](https://medium.com/@prabhukalyan) !!
 5. See my profile on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/prabhukalyan30/profile) :D
+6. View my profile on [Educative](https://www.educative.io/profile/view/5638466612756480) :)
