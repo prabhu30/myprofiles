@@ -10,6 +10,8 @@ Have a look :) <br><br>
 * See my profile on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/prabhukalyan30/profile) :star_struck:	
 * Here's my Progress on [PrepBytes](https://mycode.prepbytes.com/profile/prabhukalyan30) :smiley:	
 * View my profile on [Educative](https://www.educative.io/profile/view/5638466612756480) :grin:	
+* I do have an progress on [Dataquest](https://app.dataquest.io/profile/prabhukalyan30) :stuck_out_tongue_winking_eye:	
+* Have a look at my profile on [Datacamp](https://www.datacamp.com/profile/prabhukalyan30) :sweat_smile: 
 * Checkout my activity on [Quora](https://www.quora.com/profile/Prabhu-Kalyan-8) :yum:	
 * I shared something on [Medium](https://medium.com/@prabhukalyan) :smiley:	
 * My profile on [GitHub](https://github.com/prabhu30) :wink:	
