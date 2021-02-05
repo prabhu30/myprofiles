@@ -2,7 +2,7 @@
 Here are my profiles on various websites..! <br><br>
 Have a look :) <br><br>
 
-* Have you seen my profile on [Codecademy](https://www.codecademy.com/profiles/prabhukalyan)  :smiley:	
+* Have you seen my profile on [Codecademy](https://www.codecademy.com/profiles/prabhukalyan) 😃
 * I do learn something on [LeetCode](https://leetcode.com/prabhukalyan) :yum:	
 * Take a look at my profile on [LetsUpgrade](https://community.letsupgrade.in/user/prabhukalyan) :stuck_out_tongue_winking_eye:	
 * Peep into my profile on [Hackerrank](https://www.hackerrank.com/VVIT18BQ1A0596) :sweat_smile: 
