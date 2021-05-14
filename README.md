@@ -16,4 +16,4 @@ Have a look :) <br><br>
 * I shared something on [Medium](https://medium.com/@prabhukalyan) 😃
 * My profile on [GitHub](https://github.com/prabhu30) 😉
 
-[embed]http://example.com/file.pdf[/embed]
+<embed src="/Syllabus Summer Training ShapeAi" type="application/pdf">
