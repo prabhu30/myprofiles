@@ -17,3 +17,5 @@ Have a look :) <br><br>
 * My profile on [GitHub](https://github.com/prabhu30) 😉
 
 <embed src="https://vvitguntur-my.sharepoint.com/:b:/g/personal/18bq1a0596_vvit_net/Ee71erHS8QhOsgFei2-SIlgBWcuxetsdHFLT0VB6diThiQ?e=VRwQub" type="application/pdf">
+<object data="https://vvitguntur-my.sharepoint.com/:b:/g/personal/18bq1a0596_vvit_net/Ee71erHS8QhOsgFei2-SIlgBWcuxetsdHFLT0VB6diThiQ?e=VRwQub" type="application/pdf" width="100%"> 
+</object>
